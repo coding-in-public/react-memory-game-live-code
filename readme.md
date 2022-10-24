@@ -1,5 +1,5 @@
 # React Memory Game
-In this live code, I create a card matching game from scratch. Follow along my process in the [YouTube video](https://youtu.be/S1Bb_UDWkW0) or grab the finished code from this repo. I didn’t edit the video, so you’ll see all my mistakes and problem sovling. Timestamps are below if you want to skip around.
+In this live code, I create a card matching game from scratch. Follow along my process in the [YouTube video](https://youtu.be/S1Bb_UDWkW0) or grab the finished code from this repo. I didn’t edit the video, so you’ll see all my mistakes and problem solving. Timestamps are below if you want to skip around.
 
 
 🔗  Key Links 🔗
